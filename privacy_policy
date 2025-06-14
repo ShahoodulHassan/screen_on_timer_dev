@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Privacy Policy – ScreenOn Timer</title>
+  <link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;600&display=swap" rel="stylesheet" />
+  <style>
+    body {
+      font-family: 'Source Sans 3', sans-serif;
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 2rem;
+      background-color: #ffffff;
+      color: #333333;
+      line-height: 1.6;
+    }
+    h1, h2 {
+      font-weight: 600;
+      color: #222222;
+    }
+    h1 {
+      font-size: 2rem;
+      margin-bottom: 1rem;
+    }
+    h2 {
+      font-size: 1.25rem;
+      margin-top: 2rem;
+    }
+    p {
+      margin: 0.75rem 0;
+    }
+    ul {
+      margin-left: 1.25rem;
+      list-style: disc;
+    }
+    a {
+      color: #3366cc;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <h1>Privacy Policy</h1>
+  <p><strong>Effective Date:</strong> [Insert Date]</p>
+
+  <p><strong>ScreenOn Timer</strong> (“we”, “our”, or “the app”) is committed to protecting your privacy. This Privacy Policy explains what information the app collects, how it is used, and your rights regarding that information.</p>
+
+  <h2>1. Information We Collect</h2>
+  <p>The app <strong>does not collect any personal information</strong> such as your name, email address, phone number, or precise location.</p>
+  <p>However, to enforce usage limits and ensure fair access, the app may:</p>
+  <ul>
+    <li>Generate a <strong>non-personal, device-specific identifier</strong> (e.g., a hashed fingerprint of your device configuration).</li>
+    <li>Store this identifier on a secure remote server (e.g., Firebase) along with basic usage data (e.g., session counts, timestamp).</li>
+  </ul>
+  <p>This data:</p>
+  <ul>
+    <li><strong>Cannot be used to identify you personally</strong>.</li>
+    <li>Is used solely to monitor usage limits and unlock premium features if purchased.</li>
+  </ul>
+
+  <h2>2. Data Usage</h2>
+  <p>The collected usage data is used only to:</p>
+  <ul>
+    <li>Track free usage limits and prevent abuse (e.g., reinstalling the app to reset usage count).</li>
+    <li>Restore access to paid features if you reinstall the app after purchasing.</li>
+    <li>Maintain app stability and ensure fair access for all users.</li>
+  </ul>
+  <p>We do <strong>not</strong> use this data for analytics, advertising, or any form of tracking outside of the app’s functionality.</p>
+
+  <h2>3. Data Sharing</h2>
+  <p>We do <strong>not sell, trade, or rent</strong> your data to anyone.</p>
+  <p>We may store anonymized usage records using third-party services like <strong>Firebase</strong>, which are subject to their own privacy and security policies.</p>
+
+  <h2>4. Internet Permissions</h2>
+  <p>The app may access the internet to:</p>
+  <ul>
+    <li>Sync usage data to prevent abuse of the free tier.</li>
+    <li>Restore premium purchases through Google Play Billing.</li>
+  </ul>
+  <p>It does <strong>not</strong> access or transmit personal files, photos, contacts, or any other private data on your device.</p>
+
+  <h2>5. Purchase Information</h2>
+  <p>If you choose to make a <strong>one-time purchase</strong> to unlock unlimited usage, the transaction is processed securely via <strong>Google Play Billing</strong>. We do not receive or store your payment details.</p>
+
+  <h2>6. Your Control</h2>
+  <p>You may uninstall the app at any time. However, uninstalling or clearing app data may not reset usage limits if a device fingerprint has already been stored remotely to prevent repeated abuse.</p>
+
+  <h2>7. Contact Us</h2>
+  <p>If you have any questions or concerns about this privacy policy or the app’s behavior, feel free to contact us at:</p>
+  <p><strong>Email:</strong> <a href="mailto:appicacious@gmail.com">appicacious@gmail.com</a></p>
+
+  <h2>8. Changes to This Policy</h2>
+  <p>We may update this Privacy Policy as the app evolves. Changes will be reflected on this page and take effect upon publication.</p>
+</body>
+</html>
